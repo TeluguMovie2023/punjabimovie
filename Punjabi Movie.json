@@ -1,0 +1,408 @@
+{
+  "EnglishMovie" : {
+	"Movie":[
+		{
+			"id": 1,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 2,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 3,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 4,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 5,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 6,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 7,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 8,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 9,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 10,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 11,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 12,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 13,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 14,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 15,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 16,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 17,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 18,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 19,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 20,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 21,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 22,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 23,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 24,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 25,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 26,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 27,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 28,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 29,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 30,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 31,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 32,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 33,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 34,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 35,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 36,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 37,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 38,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 39,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 40,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 41,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 42,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 43,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 44,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 45,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 46,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 47,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 48,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 49,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 50,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		}
+	],
+	"MovieSlider":[
+		{
+			"id": 1,
+			"Video_Id": "_2MVfF0Tlog",
+			"qurekaimg":"",
+			"qurekaimg2":"",
+			"Movie_name": "Annhi Dea Mazaak Ae",
+			"Movieimg":"https://i.ytimg.com/vi/_2MVfF0Tlog/maxresdefault.jpg",
+            "Description": "",
+            "Language": "Punjabi"
+		},
+		{
+			"id": 2,
+			"Video_Id": "c8uhxLHcw7c",
+			"qurekaimg":"",
+			"qurekaimg2":"Jodi",
+			"Movie_name": "THE EQUALIZER 3",
+			"Movieimg":"https://i.ytimg.com/vi/c8uhxLHcw7c/maxresdefault.jpg",
+            "Description": "",
+            "Language": "Punjabi"
+		},
+		{
+			"id": 3,
+			"Video_Id": "t93xia3odA0",
+			"qurekaimg":"",
+			"qurekaimg2":"",
+			"Movie_name": "Dil Hona Chaida Jawaan",
+			"Movieimg":"https://i.ytimg.com/vi/t93xia3odA0/maxresdefault.jpg",
+            "Description": "",
+            "Language": "Punjabi"
+		},
+		{
+			"id": 4,
+			"Video_Id": "WGFcLkcoIYI",
+			"qurekaimg":"",
+			"qurekaimg2":"",
+			"Movie_name": "Gol Gappe",
+			"Movieimg":"https://assets-in.bmscdn.com/discovery-catalog/events/et00127322-vrtpyhanmt-landscape.jpg",
+            "Description": "",
+            "Language": "Punjabi"
+		},
+		{
+			"id": 5,
+			"Video_Id": "xnQlsyCVzUc",
+			"qurekaimg":"",
+			"qurekaimg2":"",
+			"Movie_name": "Nigah Marda Ayi Ve",
+			"Movieimg":"https://i.ytimg.com/vi/xnQlsyCVzUc/maxresdefault.jpg",
+            "Description": "",
+            "Language": "Punjabi"
+		}
+	]
+  }
+}
