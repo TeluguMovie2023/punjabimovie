@@ -1,229 +1,229 @@
 {
-  "EnglishMovie" : {
+  "PunjabiMovie" : {
 	"Movie":[
 		{
 			"id": 1,
-			"Video_Id": "",
-			"Movie_name": "",
-			"Description": "",
-			"Movieimg": ""
+			"Video_Id": "4M2c75dWsK8",
+			"Movie_name": "Ji Wife Ji",
+			"Description": "Two men are overpowered by the women in their house and hatch a plan to get their sister-in-law married in order to bring another man in.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BODRmNzhhMzEtOGJhYy00YmZlLThhNDAtODdmZjk4ZmZmNDQwXkEyXkFqcGdeQXVyNDM2NjkyNDA@._V1_FMjpg_UX1000_.jpg"
 		},
 		{
 			"id": 2,
-			"Video_Id": "",
-			"Movie_name": "",
-			"Description": "",
-			"Movieimg": ""
+			"Video_Id": "yXwAVL686_Y",
+			"Movie_name": "Jatt Brothers",
+			"Description": "A fierce competition ensues between best friends Jaggi and Pamma when they go to great lengths to impress the women they love.",
+			"Movieimg": "https://upload.wikimedia.org/wikipedia/en/2/2e/Jatt_Brothers_Poster.jpeg"
 		},
 		{
 			"id": 3,
-			"Video_Id": "",
-			"Movie_name": "",
-			"Description": "",
-			"Movieimg": ""
+			"Video_Id": "z7bQ8deGrJY",
+			"Movie_name": "Honsla Rakh",
+			"Description": "A single father attempting to find love and a mother for his seven-year-old son runs into his ex, who's just returned to the city.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BZjhlOWJlMzctNjI3Yi00NzUzLTk5MjUtYjVkZmM3NzEyMWE1XkEyXkFqcGdeQXVyMTM4MzE0MDk1._V1_FMjpg_UX1000_.jpg"
 		},
 		{
 			"id": 4,
-			"Video_Id": "",
-			"Movie_name": "",
-			"Description": "",
-			"Movieimg": ""
+			"Video_Id": "cKEu1Q8RHoc",
+			"Movie_name": "Ni main sase kuttni",
+			"Description": "Upset about her son's decision to marry against her will, a woman plots to make her daughter-in-law miserable. However, her plans backfire when her daughter-in-law retaliates.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BNDc1NjUwMzQtYTc4Zi00ZWZkLTk0MDItNjA2MWU0MGI5MTQ3XkEyXkFqcGdeQXVyNDM2NjkyNDA@._V1_.jpg"
 		},
 		{
 			"id": 5,
-			"Video_Id": "",
-			"Movie_name": "",
-			"Description": "",
-			"Movieimg": ""
+			"Video_Id": "BiypWlN2zMo",
+			"Movie_name": "Nadhoo Khan",
+			"Description": "Chanan aspires to become a wrestler and follows his grandfather's footsteps. However, his life takes a turn when he is pitted against his girlfriend's brother in a competition.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMGY0ODY1ZGUtY2ViYS00YjczLTkyMGEtMmM2NjkyYjNkMjQ4XkEyXkFqcGdeQXVyNjA4NTk0NjU@._V1_.jpg"
 		},
 		{
 			"id": 6,
-			"Video_Id": "",
-			"Movie_name": "",
-			"Description": "",
-			"Movieimg": ""
+			"Video_Id": "o-dYFnuWMvA",
+			"Movie_name": "Moosa Jatt",
+			"Description": "Moosa, who is brought up by his uncle, finds out that his parents died due to the evil deeds of a land mafia. He then decides to bring the culprits to justice and protect the farmers from harassment.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BZDkyY2E4YzMtMDU4My00MjZiLWI5YjAtNjI2NWExOWIzZjg0XkEyXkFqcGdeQXVyMTMwNTU2MDMx._V1_.jpg"
 		},
 		{
 			"id": 7,
-			"Video_Id": "",
-			"Movie_name": "",
-			"Description": "",
-			"Movieimg": ""
+			"Video_Id": "rppeSnJCdFA",
+			"Movie_name": "Zidd",
+			"Description": "Maya falls in love with Ronnie, a crime reporter, and gets obsessed with him. Things take a turn for the worse when they both get involved in a murder case.",
+			"Movieimg": "https://i.ytimg.com/vi/rppeSnJCdFA/hq720.jpg"
 		},
 		{
 			"id": 8,
-			"Video_Id": "",
-			"Movie_name": "",
-			"Description": "",
-			"Movieimg": ""
+			"Video_Id": "DUQYu6wB1TQ",
+			"Movie_name": "Arjan",
+			"Description": "Nimmi, an NRI, must marry a Punjabi man at her uncle's behest. So, she decides to marry Arjan, a man under debt, on paper as they both have something to gain from it.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMjI3YmYxNmItNzE4NS00N2MxLWJiODItZGVmZjIwMTQ5YTFjXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg"
 		},
 		{
 			"id": 9,
-			"Video_Id": "",
-			"Movie_name": "",
-			"Description": "",
-			"Movieimg": ""
+			"Video_Id": "JAIfCqpgeiI",
+			"Movie_name": "Mukhtiar Chadha",
+			"Description": "After his father's demise due to poverty, Mukhtiar dreams of being wealthy and enters the real estate business. However, trouble ensues when he comes into conflict with a mafia group.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMmVmODUyYWQtOWE4YS00ZDMyLWI2NDQtYWY0Y2E3YWQ0NzE3XkEyXkFqcGdeQXVyMzE2MzA5MzI@._V1_.jpg"
 		},
 		{
 			"id": 10,
-			"Video_Id": "",
-			"Movie_name": "",
-			"Description": "",
-			"Movieimg": ""
+			"Video_Id": "e7YeufudJWQ",
+			"Movie_name": "Mahi Mera Nikka Jeha",
+			"Description": "A short guy's romantic interest in a taller girl earns some criticism from her loved ones, but only time will tell if he succeeds in gaining their approval or if they end up broken-hearted.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMmIyNDMzMTEtZTkxNy00MDM4LWE1ZTgtNzMyM2U2Y2YzODE2XkEyXkFqcGdeQXVyNDM2NjkyNDA@._V1_FMjpg_UX1000_.jpg"
 		},
 		{
 			"id": 11,
-			"Video_Id": "",
-			"Movie_name": "",
-			"Description": "",
-			"Movieimg": ""
+			"Video_Id": "CsUpN5iGSEw",
+			"Movie_name": "Chal Mera Putt 3",
+			"Description": "Chal Mera Putt 3 is a 2021 Indian Punjabi-language comedy-drama film directed by Janjot Singh. It is a direct sequel to 2020 film Chal Mera Putt 2. The film is produced by Karaj Gill under Rhythm Boyz Entertainment and by Ashu Munish Sahni under Omjee Star Studios.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMmQxNzE1ZjQtODQyYS00YTVjLWJhNTctNTRlNzYyN2QwNWNjXkEyXkFqcGdeQXVyMTM1NjAwNTI2._V1_.jpg"
 		},
 		{
 			"id": 12,
-			"Video_Id": "",
-			"Movie_name": "",
-			"Description": "",
-			"Movieimg": ""
+			"Video_Id": "7DJdyPcvi_o",
+			"Movie_name": "Best Of Luck",
+			"Description": "Kullu, a pizza delivery boy meets Goli Badmaash, a notorious gangster. Soon, they realise they can help each other with their love lives.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BYWM1NTFhMGYtNjc2Ny00ZGMyLTg1NTEtMzkzYzQyZmEwNjFkXkEyXkFqcGdeQXVyNjE4MTE3MDY@._V1_.jpg"
 		},
 		{
 			"id": 13,
-			"Video_Id": "",
-			"Movie_name": "",
-			"Description": "",
-			"Movieimg": ""
+			"Video_Id": "A2vcDRAdf5I",
+			"Movie_name": "Angrej",
+			"Description": "Geja falls in love with Maarho. When her family learns of their relationship, it is scorned up. Before their love fully blooms, a rich man enters Maarho's life and Geja finds solace in Dhan Kaur.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BY2Q5NjlmODUtYjkzOS00NjY3LThjNGQtY2YzYTdjYjRmNzAzXkEyXkFqcGdeQXVyNjE1OTQ0NjA@._V1_.jpg"
 		},
 		{
 			"id": 14,
-			"Video_Id": "",
-			"Movie_name": "",
-			"Description": "",
-			"Movieimg": ""
+			"Video_Id": "ZEeQ7XpBPUQ",
+			"Movie_name": "Ashke",
+			"Description": "Ashke is a film about the cultural dance \"Bhangra,\" and also revolves around families, relationships and fun-loving comedy.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMWFlNWJmMDYtMWQyNy00NzJiLWJiMmMtMDNhZGQ0ZjZlMmZjXkEyXkFqcGdeQXVyODQwMDcwNDY@._V1_UY1200_CR89,0,630,1200_AL_.jpg"
 		},
 		{
 			"id": 15,
-			"Video_Id": "",
-			"Movie_name": "",
-			"Description": "",
-			"Movieimg": ""
+			"Video_Id": "Xia_XWi9rII",
+			"Movie_name": "KALA SHAH KALA",
+			"Description": "Lovely, a dark-complexioned man, gets married to Pammi, a beautiful girl. However, his bliss is short-lived as Pammi appears to be possessed by a spirit.",
+			"Movieimg": "https://upload.wikimedia.org/wikipedia/en/4/40/KlshKl.jpg"
 		},
 		{
 			"id": 16,
-			"Video_Id": "",
-			"Movie_name": "",
-			"Description": "",
-			"Movieimg": ""
+			"Video_Id": "TMEra2yTUQA",
+			"Movie_name": "KANDE",
+			"Description": "Kabaddi champion of the village, Jind raises her son to be the most honest and reputable player. Unfortunately, the son gets addicted to drugs, threatening to destroy himself and his mother.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BYmFlMGJhYTktMzc4MS00YTE1LTk2ZGYtMTE5ZmZkNjQwYWNhXkEyXkFqcGdeQXVyODczMDMwMTE@._V1_FMjpg_UX1000_.jpg"
 		},
 		{
 			"id": 17,
-			"Video_Id": "",
-			"Movie_name": "",
-			"Description": "",
-			"Movieimg": ""
+			"Video_Id": "NTd2KWLCB3c",
+			"Movie_name": "DONKI",
+			"Description": "The rampant use of an illegal backdoor route called 'Donkey Flight' by Indians to immigrate to countries like Canada and USA.",
+			"Movieimg": "https://i.ytimg.com/vi/NTd2KWLCB3c/maxresdefault.jpg"
 		},
 		{
 			"id": 18,
-			"Video_Id": "",
-			"Movie_name": "",
-			"Description": "",
-			"Movieimg": ""
+			"Video_Id": "gyY5jvX7yf4",
+			"Movie_name": "RABB DA RADIO",
+			"Description": "Naseeb, a newly-wedded woman, must help her sister-in-law, Guddi, to marry her love, Manjinder, and reunite her husband's broken family.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BYzc2ZmZkMGMtODg4YS00YTViLWJmMGMtZTAyYmNjZWJjZmM3XkEyXkFqcGdeQXVyNjE1OTQ0NjA@._V1_.jpg"
 		},
 		{
 			"id": 19,
-			"Video_Id": "",
-			"Movie_name": "",
-			"Description": "",
-			"Movieimg": ""
+			"Video_Id": "8bAiKQz5LF4",
+			"Movie_name": "Ucha Pind",
+			"Description": "A young gangster, along with his uncle, attempts to outsmart the head of a dreaded crime family that deals with drugs. Chaos ensues as both the gangs go against each other in the lust for power.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BNDhhMjljNjUtODIwYy00YmNhLWFiNWQtNThkNGZhZmY4YjhiXkEyXkFqcGdeQXVyMTM1NzUzNzU5._V1_.jpg"
 		},
 		{
 			"id": 20,
-			"Video_Id": "",
-			"Movie_name": "",
-			"Description": "",
-			"Movieimg": ""
+			"Video_Id": "PRE1SIm9nXA",
+			"Movie_name": "Kali Jotta",
+			"Description": "A love story centers around soft and pure-hearted Rabia, who is later tortured by a male-dominated society.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BYzI0ZTc0ZDMtMGYwOS00NmFjLTliZmQtN2Q2NTAzNzhjYzcxXkEyXkFqcGdeQXVyNDAzNDk0MTQ@._V1_FMjpg_UX1000_.jpg"
 		},
 		{
 			"id": 21,
-			"Video_Id": "",
-			"Movie_name": "",
-			"Description": "",
-			"Movieimg": ""
+			"Video_Id": "4oO0zV5ANNI",
+			"Movie_name": "Nikka Zaildar",
+			"Description": "Nikka Zaildar is a 2016 Punjabi romantic comedy film directed by Simerjit Singh, written by Jagdeep Sidhu, and starring Ammy Virk and Sonam Bajwa as the main lead roles.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BYmU1MGRlNGUtMjVlMC00YzBmLWJlMzktYmY5MjJkM2JiZjlhXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_FMjpg_UX1000_.jpg"
 		},
 		{
 			"id": 22,
-			"Video_Id": "",
-			"Movie_name": "",
-			"Description": "",
-			"Movieimg": ""
+			"Video_Id": "pnhBx3UwKoY",
+			"Movie_name": "Carry on jatta 3",
+			"Description": "Carry On Jatta 3 is an upcoming Indian Punjabi-language comedy film directed by Smeep Kang and produced by Humble Motion Pictures.",
+			"Movieimg": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/carry-on-jatta-3-et00311622-1680678095.jpg"
 		},
 		{
 			"id": 23,
-			"Video_Id": "",
-			"Movie_name": "",
-			"Description": "",
-			"Movieimg": ""
+			"Video_Id": "7TS4UJIjRLw",
+			"Movie_name": "Bhaji in problem",
+			"Description": "Sundeep is married to two women, Anu and Jasmeet, who are unaware of each other. Chaos ensues when a man who knows Sundeep's secret decides to marry his sister.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMDI4ZjkzZjUtNWIxMC00MThmLWJjOWMtNjFmOTEyYTJjZmI4XkEyXkFqcGdeQXVyNjE4MTE3MDY@._V1_.jpg"
 		},
 		{
 			"id": 24,
-			"Video_Id": "",
-			"Movie_name": "",
-			"Description": "",
-			"Movieimg": ""
+			"Video_Id": "qDWJllytQwM",
+			"Movie_name": "Toofan Singh",
+			"Description": "A young Sikh fights for equality and struggles to escape the clutches of the police as he protects the society from crime and corruption.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BZDUzMGM4NGEtOGZmZS00YmYzLWJjZjQtODJjODA5ZDY0YTRkXkEyXkFqcGdeQXVyNjE1OTQ0NjA@._V1_.jpg"
 		},
 		{
 			"id": 25,
-			"Video_Id": "",
-			"Movie_name": "",
-			"Description": "",
-			"Movieimg": ""
+			"Video_Id": "-Ol_Hnq6VQk",
+			"Movie_name": "Saunkan Saunkne",
+			"Description": "Nirmal Singh invites trouble when he gets married for the second time to his first wife's sister just because he cannot conceive a child.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMGVkN2RmZjQtN2MzZi00NjNmLTg2YTYtNzFhNGQ2MDI4YzRjXkEyXkFqcGdeQXVyODQwMDcwNDY@._V1_.jpg"
 		},
 		{
 			"id": 26,
-			"Video_Id": "",
-			"Movie_name": "",
-			"Description": "",
-			"Movieimg": ""
+			"Video_Id": "-JBVgyMQJRE",
+			"Movie_name": "Lambarhdaari",
+			"Description": "Two friends, Dharmaya and Sohan Lal, are inseparable. Their friendship takes a nasty turn when Sohan Lal rapes Dharmaya's servant and tries to run away.",
+			"Movieimg": "https://i.ytimg.com/vi/TRHudfRTEY0/maxresdefault.jpg"
 		},
 		{
 			"id": 27,
-			"Video_Id": "",
-			"Movie_name": "",
-			"Description": "",
-			"Movieimg": ""
+			"Video_Id": "hSrj5tb9qek",
+			"Movie_name": "Banjara",
+			"Description": "Banjara is a 2018 Indian Punjabi-language drama film directed by Mushtaq Pasha. The film stars Babbu Maan, Rana Ranbir, Gurpreet Bhangu, Jia Mustafa and Shraddha Arya.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BOGI0N2RkM2UtMzZjMi00OTJhLTk2NmQtYzIxN2ZjNmJmYWE3XkEyXkFqcGdeQXVyODk3NTg1OTg@._V1_.jpg"
 		},
 		{
 			"id": 28,
-			"Video_Id": "",
-			"Movie_name": "",
-			"Description": "",
-			"Movieimg": ""
+			"Video_Id": "-4Ia1CScqCI",
+			"Movie_name": "Jaddi Sardar",
+			"Description": "Two brothers share a strong bond and go to great lengths to support and protect each other. However, when an argument breaks out between the elders, the brothers bear the brunt of it and drift apart.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BYjRlNjQzYWItNGRkMi00MjBmLWFiYWEtNzk3YjZiYzU1NjYzXkEyXkFqcGdeQXVyODQwMDcwNDY@._V1_.jpg"
 		},
 		{
 			"id": 29,
-			"Video_Id": "",
-			"Movie_name": "",
-			"Description": "",
-			"Movieimg": ""
+			"Video_Id": "7FsjxXS57f4",
+			"Movie_name": "Lucky Di Un Lucky Story",
+			"Description": "Lucky lives a carefree life along with his three friends until he meets and falls in love with Seerat. However, a series of unfortunate circumstances keep them from getting married.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMmZlODgwMWEtZjhjZC00MWNkLTkwZTAtZDhlNTk3MjI2OWUwXkEyXkFqcGdeQXVyNjE4MTE3MDY@._V1_.jpg"
 		},
 		{
 			"id": 30,
-			"Video_Id": "",
-			"Movie_name": "",
-			"Description": "",
-			"Movieimg": ""
+			"Video_Id": "Sbb76kxmiy4",
+			"Movie_name": "Shava ni girdhari laal",
+			"Description": "A man is desperate to find a match because of his increasing age, but makes everyone uncomfortable and gets into trouble every time he meets a gorgeous girl.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BOTdhMzI3MTQtZWUyZS00NmRkLWEzYzUtMDZmYWEwOGQ3YmU2XkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg"
 		},
 		{
 			"id": 31,
-			"Video_Id": "",
-			"Movie_name": "",
-			"Description": "",
-			"Movieimg": ""
+			"Video_Id": "L54Pf337QhM",
+			"Movie_name": "Jind Jaan",
+			"Description": "Ranjha, along with his uncle, travels to Thailand on a special mission, where he meets with Juliet, who belongs to a rich family. He falls for her and faces many obstacles to win her love.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMTAzY2FkMjMtMjlhNS00NWEzLThiYmEtMGIxMmViYzVhZDY4XkEyXkFqcGdeQXVyNDU0Mzg1NTg@._V1_.jpg"
 		},
 		{
 			"id": 32,
-			"Video_Id": "",
-			"Movie_name": "",
-			"Description": "",
-			"Movieimg": ""
+			"Video_Id": "rMtzwFlEgo8",
+			"Movie_name": "Chunni Chadawa",
+			"Description": "Lucky's mother sets out on a mission to look for the right girl to marry him. When everything seems to be on track, the world is suddenly hit by the unfortunate Coronavirus pandemic.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BNGNjOWNmMWQtNGJmOC00NjI2LWIzYzgtN2ZiMThlODJhOWI2XkEyXkFqcGdeQXVyMTU0OTYxNTU1._V1_.jpg"
 		},
 		{
 			"id": 33,
