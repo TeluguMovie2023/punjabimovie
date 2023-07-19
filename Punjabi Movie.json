@@ -327,21 +327,21 @@
 	"MovieSlider":[
 		{
 			"id": 1,
-			"Video_Id": "_2MVfF0Tlog",
+			"Video_Id": "ucoZmz5cqu0",
 			"qurekaimg":"",
 			"qurekaimg2":"",
-			"Movie_name": "Annhi Dea Mazaak Ae",
-			"Movieimg":"https://i.ytimg.com/vi/_2MVfF0Tlog/maxresdefault.jpg",
+			"Movie_name": "Kade Dade Diyan Kade Pote Dian",
+			"Movieimg":"https://www.cinefry.co.in/wp-content/uploads/2023/07/Kade-Dade-Diyan-Kade-Pote-Diyan.jpg",
             "Description": "",
             "Language": "Punjabi"
 		},
 		{
 			"id": 2,
-			"Video_Id": "c8uhxLHcw7c",
+			"Video_Id": "mV8SgBE-Wf8",
 			"qurekaimg":"",
-			"qurekaimg2":"Jodi",
-			"Movie_name": "THE EQUALIZER 3",
-			"Movieimg":"https://i.ytimg.com/vi/c8uhxLHcw7c/maxresdefault.jpg",
+			"qurekaimg2":"",
+			"Movie_name": "TUFANG",
+			"Movieimg":"https://i.ytimg.com/vi/mV8SgBE-Wf8/maxresdefault.jpg",
             "Description": "",
             "Language": "Punjabi"
 		},
